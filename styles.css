@@ -1,1 +1,27 @@
 /* your code here */
+body {
+    font-family: Arial, sans-serif;
+	background-color: #f5f5;
+}
+
+.product {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 20px;
+}
+
+.photo-container {
+    display: flex;
+}
+
+.photo-main img {
+    width: 300px; /* Adjust as needed */
+}
+
+.photo-album ul {
+    list-style-type: none;
+}
+ #addToCartBtn:{
+            background-color:#45a049 ;
+	         color: aqua;
+	
