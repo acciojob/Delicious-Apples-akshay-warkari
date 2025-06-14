@@ -21,8 +21,10 @@ body {
 .photo-album ul {
     list-style-type: none;
 }
- .addToCartBtn:{
-            background-color:#45a049 ;
+ .addToCartBtn{
+            background-color:black;
 	         color: aqua;
+	        text-transform:uppercase;
+	 
 	.description  { margin-top: 20px}
 	 
